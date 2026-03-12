@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/anenoir8-code">
-    <img src="https://cardivo.vercel.app/api?name=anenoir8-codedescription=hobbyist%20%7C%20android%20%7C%20linux%20%7C%20just%20for%20fun&image=https://avatars.githubusercontent.com/anenoir8-code&backgroundColor=%230d1117&pattern=leaf&colorPattern=%230d1117&fontColor=%23ffffff&hideIcons=true" />
+    <img src="https://cardivo.vercel.app/api?name=anenoir8-code&description=hobbyist%20%7C%20android%20%7C%20linux%20%7C%20just%20for%20fun&image=https://avatars.githubusercontent.com/anenoir8-code&backgroundColor=%230d1117&pattern=leaf&colorPattern=%230d1117&fontColor=%23ffffff&hideIcons=true" />
   </a>
 </p>
 
